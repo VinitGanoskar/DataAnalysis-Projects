@@ -1,6 +1,6 @@
 ☁️Cloud Cost Optimization & Resource Utilization Analytics
 
-#📌 Executive Summary
+📌 Executive Summary
 This project focuses on analyzing cloud infrastructure utilization, operational efficiency, and cost optimization opportunities using an end-to-end analytics pipeline built with Excel, Python, SQL Server, and Power BI.  
 The solution transforms raw cloud operational datasets into actionable business intelligence dashboards that help identify underutilized resources, monitor workload efficiency, and forecast potential waste costs for strategic infrastructure optimization.
 
@@ -55,8 +55,7 @@ This experimentation was included only for learning and skill enhancement purpos
 
 
 
-
-#📊 Dashboard Features
+DASHBOARD FEATURES--
 -Key Insights Included
 -Total Allocated Cost
 -Total Used Cost
@@ -70,7 +69,7 @@ This experimentation was included only for learning and skill enhancement purpos
 
 
 
-#📌DASHBOARD:-
+📌DASHBOARD:-
 <img width="1220" height="740" alt="Screenshot 2026-05-08 144528" src="https://github.com/user-attachments/assets/fe0a9ee7-d89c-43d0-89e8-f5a5a3631373" />
 
 

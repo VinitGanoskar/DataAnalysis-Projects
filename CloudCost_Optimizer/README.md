@@ -1,0 +1,62 @@
+Cloud Cost Optimization & Resource Utilization Analytics
+
+📌 Executive Summary
+This project focuses on analyzing cloud infrastructure utilization, operational efficiency, and cost optimization opportunities using an end-to-end analytics pipeline built with Python, SQL Server, and Power BI.  
+The solution transforms raw cloud operational datasets into actionable business intelligence dashboards that help identify underutilized resources, monitor workload efficiency, and forecast potential waste costs for strategic infrastructure optimization.
+
+---
+
+# 🎯 Business Objective
+Modern cloud environments often generate excessive operational costs due to inefficient resource allocation, idle services, and non-optimized infrastructure usage.  
+
+The objective of this project is to:
+- Monitor cloud resource utilization
+- Identify cost inefficiencies
+- Detect underutilized and overloaded services
+- Forecast potential waste costs
+- Support data-driven infrastructure optimization decisions
+
+---
+
+# 🧩 Problem Statement
+Organizations operating on cloud platforms face challenges such as:
+- High operational cloud spending
+- Inefficient allocation of compute resources
+- Lack of visibility into regional cost distribution
+- Difficulty identifying resource optimization opportunities
+- Absence of predictive monitoring for future waste costs
+
+This analytics solution addresses these challenges through interactive reporting and KPI-driven analysis.
+
+---
+
+# 🛠️ Technology Stack
+
+| Technology | Usage |
+|---|---|
+| Python (Pandas, NumPy) | Data Cleaning & Transformation |
+| SQL Server | Data Warehousing & Querying |
+| Power BI | Dashboarding & Visualization |
+| Excel / CSV | Source Data |
+| DAX | KPI & Measure Development |
+
+🏗️ End-to-End Data Analytics Workflow
+
+```text
+Raw Cloud Dataset (CSV/Excel)
+            ↓
+Data Cleaning & Transformation (Python)
+            ↓
+Feature Engineering & Data Preparation
+            ↓
+SQL Server Data Storage
+            ↓
+SQL Query Optimization & Aggregation
+            ↓
+Power BI Data Modeling
+            ↓
+DAX KPI Development
+            ↓
+Interactive Dashboard Visualization
+            ↓
+Business Insights & Cost Optimization Recommendations

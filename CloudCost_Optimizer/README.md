@@ -1,4 +1,4 @@
-Cloud Cost Optimization & Resource Utilization Analytics
+☁️#Cloud Cost Optimization & Resource Utilization Analytics
 
 📌 Executive Summary
 This project focuses on analyzing cloud infrastructure utilization, operational efficiency, and cost optimization opportunities using an end-to-end analytics pipeline built with Python, SQL Server, and Power BI.  

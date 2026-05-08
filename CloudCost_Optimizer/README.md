@@ -40,6 +40,10 @@ This analytics solution addresses these challenges through interactive reporting
 | Excel / CSV | Source Data |
 | DAX | KPI & Measure Development |
 
+
+📌DASHBOARD:-
+<img width="1220" height="740" alt="Screenshot 2026-05-08 144528" src="https://github.com/user-attachments/assets/fe0a9ee7-d89c-43d0-89e8-f5a5a3631373" />
+
 🏗️ End-to-End Data Analytics Workflow
 
 ```text
@@ -52,6 +56,7 @@ Feature Engineering & Data Preparation
 SQL Server Data Storage
             ↓
 SQL Query Optimization & Aggregation
+
             ↓
 Power BI Data Modeling
             ↓
